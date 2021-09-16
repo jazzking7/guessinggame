@@ -1,0 +1,33 @@
+**************************************************************************
+Sup player, this is your game master speaking.
+I created this challenge to help fighting off boredom and
+to bring a little bit of fun in life.
+If you are busy, already having fun or not interested in anything,
+then you don't have to waste your time here any longer.
+However, if that is not the case, then I will start giving instructions...
+==========================================================================
+First of all, this game is very primitive: no special effects,
+no flashy graphic......
+I'm still noob in programming.
+If you can't stand that, then it's time to leave.
+
+Second, do not rename anything or delete anything,otherwise the game won't
+even run. Double-click on "test", if no star shows up, then really
+sorry there is no game for you :(
+(This game is written using Python, you can download Python and try to
+run it again)
+
+Third, there will be rewards for the first 5 players that completed the
+challenge.
+
+Fourth,this game is much deeper than it seems, try to explore all options.
+EVERYTHING you need is in this file. 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The following 4 rules are ABSOLUTE and UNCHANGEABLE:
+1. DO NOT LOOK at the SOURCE CODES during the challenge.
+2. DO NOT DISTRIBUTE the game to other people, I need to know
+how many people are actually playing.
+3. DO NOT SHARE THE WIN CONDITION TO ANYONE IF YOU COMPLETED THE GAME.
+4. HAVE FUN!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Now, double-click on Game and get started :)
