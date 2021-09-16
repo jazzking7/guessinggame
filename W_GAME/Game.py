@@ -148,12 +148,6 @@ def update_score(misfortune, puzzle, wheel, miswheel):
     else:
         score = len(puzzle)*spin(wheel)
     return score
-#==============================================================================
-# SECRET QUEST (^_^):
-# HAHAHA WHO SAID YOU CAN'T LOOK AT THE CODES?
-# ADD THE SECRET MESSAGE: "NO GAME NO LIFE"
-# TO YOUR PROOF OF COMPLETION FOR EXTRA REWARDS!
-#==============================================================================
 
 def face(misfortune):
     faces = ["(^o^): ", "(^_^): ", "(^0^): ", "\\(^0^)/: "]
